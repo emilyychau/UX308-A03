@@ -1387,3 +1387,5 @@ Stack trace:
   thrown in /workspaces/UX308-A02/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/general.php on line 600
 [29-Mar-2025 04:16:01 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX308-A02/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/general.php on line 777
 [29-Mar-2025 04:16:01 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 131072 bytes) in /workspaces/UX308-A02/.wordpress/wp-content/languages/admin-en_CA.l10n.php on line 2
+[05-Apr-2025 08:02:11 UTC] PHP Warning:  Attempt to read property "ID" on null in /workspaces/UX308-A03/.wordpress/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 167
+[05-Apr-2025 08:02:11 UTC] PHP Warning:  Attempt to read property "ID" on null in /workspaces/UX308-A03/.wordpress/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 167
