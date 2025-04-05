@@ -6,6 +6,6 @@
     "dev": "wp-pwa dev",
     "start": "wp-pwa dev",
     "preview": "wp-pwa preview",
-    "build": "wp-pwa build UX308-A02"
+    "build": "wp-pwa build UX308-A03"
   }
 }

@@ -1,3 +1,7 @@
+# UX308 Assignment 3
+
+In this assignment you will add a custom React Bulma form into your lab 6 website.
+
 # cd-wordpress
 continuous deployment wordpress
 
@@ -13,10 +17,3 @@ This will continuously deploy on gh-pages using the [diy-pwa/npm-build-2-gh-page
 The idea of this is as a consumer of microfrontends. There is an example microfrontend for [paypal standard](https://github.com/diy-pwa/paypal-microfrontend) here.
 
 Have fun composing work from autonomous teams.
-
-# UX308 Assignment 2
-
-In this assignment you will add your chatbot to your lab 6 website.
-
-Combining Assignment 1 chatbot w/ the Lab 6 Wordpress website
-
